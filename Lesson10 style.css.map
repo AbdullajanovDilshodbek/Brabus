@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,gBAAgB,EAAE,IAAI;EACtB,WAAW,EAAE,UAAU;CAC1B",
+    "sources": [
+        "Lesson10 style.scss"
+    ],
+    "names": [],
+    "file": "Lesson10 style.css"
+}

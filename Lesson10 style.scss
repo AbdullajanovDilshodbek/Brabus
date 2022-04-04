@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: #ccc;
+    font-family: sans-serif;
+}
+
+// .box{
+//     width: 500px;
+//     height: 500px;
+//     background-color: dodgerblue; 
+//     display: flex;
+//     align-items: flex-start;
+//     justify-content: center;
+//     flex-direction: column-reverse;
+//     .child{
+//         width: 100px;
+//         height: 100px;
+//         background-color: green;
+//     }
+// }
+
+// .parent{
+//     width: 50%;
+//     height: 400px;
+//     background-color: dodgerblue;
+//     display: flex;
+//     align-items: center;
+//     justify-content: space-evenly;
+//     flex-flow: row wrap;
+//     // flex-flow: flex-direction va flex-wrap ning birdaniga ishlatilishi uchun
+//     .son{
+//         width: 100px;
+//         height: 100px;
+//         background-color: green;
+//     }
+// }
+
+// .navbar{
+//     width: 90%;
+//     height: 100px;
+//     background-color: dodgerblue;
+//     display: flex;
+//     .item1{
+//         width: 300px;
+//         height: 100px;
+//         background-color: gold;
+//         // flex-grow: 1;
+//         flex-shrink2: ;
+//     }
+//     .item2{
+//         width: 300px;
+//         height: 100px;
+//         background-color: green;
+//         // flex-grow: 2;
+//         flex-shrink: 3;
+//     }
+//     .item3{
+//         width: 300px;
+//         height: 100px;
+//         background-color: purple;
+//         // flex-grow: 3;
+//         flex-shrink: 3;
+//         // flex-grow: ...; => o`sish darajasi;
+//         // flex-shrink: => kamayish darajasi;
+//     }
+// }
+
+// .card{
+//     width: 370px;
+//     height: 430px;
+//     background-color: #fff;
+//     padding: 25px 15px;
+//     .card > h1{
+//         font-size: 23px;
+//     }
+//     .image_container{
+//         width: 100%;
+//         display: flex;
+//         flex-wrap: wrap;
+//         margin-top: 10px;
+//         margin-bottom: 50px;
+//     }
+//     .image_container > img{
+//         width: 50%;
+//         height: 130px;
+//         object-fit: cover;
+//     }
+//     a{
+//         text-decoration: none;
+//         color: rgb(0, 124, 128);
+//     }
+// }
